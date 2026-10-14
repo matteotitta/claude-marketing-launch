@@ -1,0 +1,15 @@
+{
+  "name": "claude-marketing-launch",
+  "owner": {
+    "name": "Matteo Tittarelli"
+  },
+  "description": "Plan and ship a product launch from one brief: tiering, story, customer proof, launch webinar.",
+  "plugins": [
+    {
+      "name": "marketing-launch",
+      "source": ".",
+      "description": "Plan and ship a product launch from one brief: tiering, story, customer proof, launch webinar.",
+      "version": "1.0.0"
+    }
+  ]
+}
