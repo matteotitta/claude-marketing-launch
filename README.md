@@ -56,14 +56,14 @@ The quickest way to set those folders up is a free workspace template:
 
 These are free, shortened versions of skills from [Marketing Engineering University](https://maven.com/matteo-tittarelli/marketing-engineering-university-genesys-growth). The course versions add the reference material, worked examples and output templates these leave out, plus agents and hooks that chain the skills and check their own work. Week 3 of Marketing Engineering University turns launches into skills an agent can chain and check.
 
-## More free plugins
+## More plugins
 
-- [Marketing context plugin](https://github.com/matteotitta/claude-marketing-context)
-- [Website plugin](https://github.com/matteotitta/claude-marketing-website)
-- [AEO plugin](https://github.com/matteotitta/claude-marketing-aeo)
-- [LinkedIn plugin](https://github.com/matteotitta/claude-marketing-linkedin)
-- [Content plugin](https://github.com/matteotitta/claude-marketing-content)
-- [Build your own GTM skills](https://github.com/matteotitta/gtm-skill-template)
+- [Marketing context plugin](https://maven.com/matteo-tittarelli/o/8264c5), $19.99 on Maven
+- [Website plugin](https://maven.com/matteo-tittarelli/o/e6f079), $29.99 on Maven
+- [AEO plugin](https://maven.com/matteo-tittarelli/o/b376c8), $19.99 on Maven
+- [LinkedIn plugin](https://maven.com/matteo-tittarelli/o/50a538), $19.99 on Maven
+- [Content plugin](https://maven.com/matteo-tittarelli/o/5b9521), $19.99 on Maven
+- [Build your own GTM skills](https://github.com/matteotitta/gtm-skill-template), free
 
 ---
 
